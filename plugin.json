@@ -1,0 +1,14 @@
+{
+  "id": "workflow-dock",
+  "name": "工作流坞",
+  "version": "1.0.0",
+  "entry_dll": "WorkflowDock.dll",
+  "api_version": 2,
+  "min_host_version": "2.4.0",
+  "description": "灵动岛上的快捷启动栏 + 命令框：小岛常驻常用 App 图标，一点即开；展开后输入网址、路径或名称，回车执行。",
+  "author": "zlwzk",
+  "icon_glyph": "\uE71D",
+  "homepage": "https://github.com/zlwzk/workflow-dock",
+  "license": "MIT",
+  "tags": ["launcher", "productivity", "workflow"]
+}
